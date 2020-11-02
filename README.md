@@ -5,7 +5,7 @@
 ### Projects
 
 - **HyperCharts** · Financial Data Platform · [hypercharts.co](https://hypercharts.co)
-- **Basket** · Minimal Investment Portfolio Tracker for iOS · (In Testflight beta)
+- **Basket** · Minimal Investment Portfolio Tracker for iOS · [Testflight Beta](https://testflight.apple.com/join/80XVhkCF)
 - **Funds** · Budget Tracker for iOS · [moesalih.com/funds](https://moesalih.com/funds)
 - **SpaceX Tracker** · SpaceX launches and Starlink satellites tracker · [spacex.moesalih.com](https://spacex.moesalih.com/)
 - More at [moesalih.com](https://moesalih.com/)
