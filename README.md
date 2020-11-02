@@ -1,16 +1,22 @@
-### Hi there 👋
+## Software Designer & Engineer / Founder @ HyperCharts
 
-<!--
-**moesalih/moesalih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+- **HyperCharts** · Financial Data Platform · [hypercharts.co](https://hypercharts.co)
+- **Basket** · Minimal Investment Portfolio Tracker for iOS · (In Testflight beta)
+- **Funds** · Budget Tracker for iOS · [moesalih.com/funds](https://moesalih.com/funds)
+- **SpaceX Tracker** · SpaceX launches and Starlink satellites tracker · [spacex.moesalih.com](https://spacex.moesalih.com/)
+- More at [moesalih.com](https://moesalih.com/)
+
+I'm also available for freelance and consulting work. Get in touch if interested!
+
+
+---
+
+
+### Find me online
+
+**Twitter**: [@moesalih_](https://twitter.com/moesalih_)  
+**IndieHackers**: [indiehackers.com/MoeSalih](https://www.indiehackers.com/MoeSalih)  
